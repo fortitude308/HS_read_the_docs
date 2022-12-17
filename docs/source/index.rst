@@ -1,11 +1,11 @@
 Welcome to Hau-Shiue's Note
 ===================================
 
-測試
+把自己曾做過的、以後想做的事情記錄下來，我不希望自己總是覺得好像做過很多事，卻都僅只皮毛。
 
 .. note::
 
-   This project is under active development.
+   I will keep this project under active development.
 
 Contents
 --------
